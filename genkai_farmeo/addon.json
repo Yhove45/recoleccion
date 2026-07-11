@@ -1,0 +1,6 @@
+{
+    "title": "Genkai Farmeo",
+    "type": "gamemode content",
+    "tags": ["roleplay", "fun"],
+    "ignore": ["*.psd", "*.vcproj", "*.svn*"]
+}

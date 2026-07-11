@@ -1,0 +1,10 @@
+{
+    "title": "Genkai Recoleccion",
+    "type": "gamemode content",
+    "tags": ["roleplay", "fun"],
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
