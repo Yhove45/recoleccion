@@ -45,7 +45,7 @@ GENKAI_FARM.Nodos = {
 
     mineral = {
         nombre  = "Veta de Mineral",
-        modelo  = "models/props_wasteland/rockgranite02b.mdl",
+        modelo  = "models/geams_solve/kiri/karatachi/rock_garden_scale.mdl",
         golpes  = 6,
         respawn = 120,
         sonido  = "physics/rock/rock_impact_hard4.wav",
@@ -67,7 +67,7 @@ GENKAI_FARM.Nodos = {
 
     madera = {
         nombre  = "Árbol de Recursos",
-        modelo  = "models/props_foliage/tree_deciduous_01a.mdl",
+        modelo  = "models/geams_solve/kiri/karatachi/pine_tree_garden_scale.mdl",
         golpes  = 6,
         respawn = 120,
         sonido  = "physics/wood/wood_solid_impact_hard5.wav",
@@ -89,7 +89,7 @@ GENKAI_FARM.Nodos = {
 
     tela = {
         nombre  = "Restos de Guerra",
-        modelo  = "models/props_junk/wood_crate001a.mdl",
+        modelo  = "models/props_gothic/treasurechest_geams.mdl",
         golpes  = 6,
         respawn = 120,
         sonido  = "physics/body/body_medium_impact_soft6.wav",
@@ -109,7 +109,6 @@ GENKAI_FARM.Nodos = {
         },
     },
 }
-
 -- -------------------------------------------------------
 -- REGISTRO DE MATERIALES en el inventario.
 -- Se llama en "Initialize" (ya existe GENKAI_INV) y una sola vez.
